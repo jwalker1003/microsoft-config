@@ -1,0 +1,46 @@
+{
+    "workbench.preferredHighContrastLightColorTheme": "Default Light Modern",
+    "launch": {
+        "configurations": [
+            
+        ]
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "glassit.alpha": 240,
+    "editor.lineNumbers": "relative",
+    "editor.minimap.enabled": false,
+    "security.workspace.trust.enabled": false,
+    "Notes.notesLocation": "w:\\Documentation",
+    "mssql.objectExplorer.groupBySchema": false,
+    "mssql.connections": [
+        {
+            "server": "BRADWLT3",
+            "database": "",
+            "authenticationType": "Integrated",
+            "profileName": "bradw",
+            "encrypt": "Mandatory",
+            "trustServerCertificate": true,
+            "user": "",
+            "password": "",
+            "connectTimeout": 15,
+            "commandTimeout": 30,
+            "applicationName": "vscode-mssql"
+        }
+    ],
+    "workbench.colorTheme": "Rosé Pine",
+    "workbench.preferredDarkColorTheme": "One Dark Pro Flat",
+    "FSharp.abstractClassStubGeneration": false,
+    "FSharp.inlayHints.parameterNames": false,
+    "FSharp.lineLens.enabled": "never",
+    "cSpell.enabled": true,
+    "[sql]": {
+        "editor.defaultFormatter": "ms-mssql.mssql"
+    },
+    "cSpell.enableFiletypes": [
+        "!ini"
+    ],
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}

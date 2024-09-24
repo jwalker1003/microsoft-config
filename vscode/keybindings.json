@@ -1,0 +1,17 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "",
+        "command": "-workbench.action.quickOpenNavigatePreviousInFilePicker"
+    },
+    {
+        "key": "ctrl+i ctrl+i",
+        "command": "editor.action.showHover",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+k ctrl+i",
+        "command": "-editor.action.showHover",
+        "when": "editorTextFocus"
+    }
+]
